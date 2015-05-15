@@ -1,0 +1,23 @@
+{
+  "name": "officeboy-demo-site",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "~0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 10004",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ksmithbaylor/officeboy-demo-site"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ksmithbaylor/officeboy-demo-site/issues"
+  }
+}
