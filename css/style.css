@@ -1,0 +1,41 @@
+.icon-block {
+  padding: 0 15px;
+}
+
+nav {
+}
+
+#logo {
+    color: #efebe9;
+    font-family: "Arial Black", Arial, sans-serif;
+    font-size: 2em;
+    letter-spacing: 0.5px;
+    line-height: 1.96em;
+
+    padding: 3px 15px 8px 15px;
+    border-radius: 50%;
+    border: 3px solid #9e9e9e;
+
+    background: linear-gradient(#9A2C38, #490E0F)
+}
+
+.parallax-container {
+    height: 200px;
+}
+
+#brands-caption {
+    color: #802533;
+    font-style: bold;
+}
+
+.maroon-text {
+    color: #802533;
+}
+
+#we-are-summary {
+    padding-top: 0;
+}
+
+.maroon {
+    background-color: #802533 !important;
+}
