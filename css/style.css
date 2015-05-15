@@ -19,17 +19,8 @@ nav {
     background: linear-gradient(#9A2C38, #490E0F)
 }
 
-.parallax-container {
-    height: 200px;
-}
-
-#brands-caption {
-    color: #802533;
-    font-style: bold;
-}
-
 .maroon-text {
-    color: #802533;
+    color: #881229;
 }
 
 #we-are-summary {
@@ -37,5 +28,5 @@ nav {
 }
 
 .maroon {
-    background-color: #802533 !important;
+    background-color: #881229 !important;
 }
