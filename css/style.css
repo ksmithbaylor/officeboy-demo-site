@@ -34,3 +34,7 @@ nav {
 .card .card-action a {
     color: #881229;
 }
+
+nav ul li:hover, nav ul li.active {
+  background-color: rgba(136,110,99,0.2);
+}
