@@ -30,3 +30,7 @@ nav {
 .maroon {
     background-color: #881229 !important;
 }
+
+.card .card-action a {
+    color: #881229;
+}
